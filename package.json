@@ -1,0 +1,19 @@
+{
+  "name": "bluetooth_attend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crewtayl/bluetooth_attend.git"
+  },
+  "author": "Crew Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crewtayl/bluetooth_attend/issues"
+  },
+  "homepage": "https://github.com/crewtayl/bluetooth_attend#readme"
+}
